@@ -12,6 +12,7 @@ namespace Resharper
     /// * Projekt (15 timer)brainstorm
     /// </summary>
     /// Dette er så en tilføjelse fra John
+    /// Dette er så tilføjelse 2 fra John
     class Program
     {
 
