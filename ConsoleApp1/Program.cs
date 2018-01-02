@@ -10,6 +10,7 @@ namespace Resharper
     /// * Visual studio hvad kan det?? (kender det ikke)
     /// * kode 1-2 dage
     /// * Projekt (15 timer)brainstorm
+    /// * Tage hul på Azure
     /// </summary>
     /// Dette er så en tilføjelse fra John
     /// Dette er så tilføjelse 2 fra John
