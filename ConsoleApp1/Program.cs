@@ -2,8 +2,19 @@
 
 namespace Resharper
 {
+    /// <summary>
+    /// Dagens summary!! Hvad skal vi nå!!
+    /// * Branch til dette github projekt (30 min)
+    /// * Resharper features (collections) (2 mdr)
+    /// * Snippets (1-2,5 time)
+    /// * Visual studio hvad kan det?? (kender det ikke)
+    /// * kode 1-2 dage
+    /// * Projekt (15 timer)brainstorm
+    /// </summary>
     class Program
     {
+
+
         // ville skrive en kommentar
         /// <summary>
         /// Summary er på metodeniveau
@@ -16,6 +27,7 @@ namespace Resharper
         /// 
         static void Main(string[] args)
         {
+            
             int valg;
             Console.WriteLine("Indtast et tal");
             valg = Convert.ToInt32(Console.ReadLine());
