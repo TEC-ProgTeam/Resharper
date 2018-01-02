@@ -11,6 +11,7 @@ namespace Resharper
     /// * kode 1-2 dage
     /// * Projekt (15 timer)brainstorm
     /// </summary>
+    /// Dette er så en tilføjelse fra John
     class Program
     {
 
