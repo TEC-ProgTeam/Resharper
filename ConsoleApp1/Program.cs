@@ -10,7 +10,10 @@ namespace Resharper
     /// * Visual studio hvad kan det?? (kender det ikke)
     /// * kode 1-2 dage
     /// * Projekt (15 timer)brainstorm
+    /// * Tage hul på Azure
     /// </summary>
+    /// Dette er så en tilføjelse fra John
+    /// Dette er så tilføjelse 2 fra John
     class Program
     {
 
@@ -24,7 +27,7 @@ namespace Resharper
         /// det der står mellem de 2 tags i param er en forklaring til hver parameter i metoden, 
         /// når metoden anvendes - en form for udvidet intellisens
         /// <param name="args"></param>
-        /// 
+        /// Her laver jeg lige en kommentar mere nisselort
         static void Main(string[] args)
         {
             
